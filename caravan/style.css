@@ -169,10 +169,11 @@ main {
   padding-top: 110px;
   background-size: cover;
   background-position: center;
+  margin-bottom: 10px;
 }
 
 .instagram-box:nth-child(odd) {
-  margin: 0 10px 10px 0;
+  margin-right: 10px;
 }
 
 .instagram-box:nth-child(1) {
